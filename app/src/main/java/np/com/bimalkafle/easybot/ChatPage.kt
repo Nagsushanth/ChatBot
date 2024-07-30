@@ -175,7 +175,7 @@ fun AppHeader() {
     ) {
         Text(
             modifier = Modifier.padding(16.dp),
-            text = "Easy Bot",
+            text = "Easy Bottttt",
             color = Color.White,
             fontSize = 22.sp
         )
